@@ -2,13 +2,15 @@
 
 *Group 9: Amélie Pingeot, Taanya Sachdeva, Maxime Pracisnore, Maximilian Baum, Thomas Vermaelen*  
 
+This is the final project for our class "Machine Learning in Python". This project was assigned to us by Le Figaro (a French news agency) in which we are required to predict the age and gender of users based on their search queries on Le Figaro website. We find that the best model for predicting Gender is a Multinomial Naive Bayes model with Tf-Idf embeddings for the keywords (Accuracy = 58%, AUC = 61.4%). When predicting age, we have found that Linear Regression with Word2Vew embeddings yielded the best result (RMSE = 13.02).    
+
 ## Project Outline
 
 ### I. Data Preparation
 
-• Sample 50,000 obseervations
-• check distribution of classes within the target variable "sex": looks fine
-• Clean, tokenize and stem keywords
+• Sample 50,000 obseervations   
+• check distribution of classes within the target variable "sex": looks fine  
+• Clean, tokenize and stem keywords  
 
 
 ### II. Modeling Gender 
