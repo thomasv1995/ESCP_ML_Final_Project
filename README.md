@@ -31,7 +31,7 @@ This is the final project for our class "Machine Learning in Python". This proje
 
 #### B) Tf-Idf with Reduced Vocabulary (Nouns and Verbs only)
 
-• Build Tf-Idf vocabulary retaining only nouns and verbs this time: length of vocabulary is 20,055 words. 
+• Build Tf-Idf vocabulary retaining only nouns and verbs this time: length of vocabulary is 20,055 words   
 • Vectorize tokens  
 • Logistic Regression:  
     - AUC Train (5-fold CV): 63.5%  
@@ -42,7 +42,7 @@ This is the final project for our class "Machine Learning in Python". This proje
 
 #### C) Word2Vec
 
-• Use Word2Vec to create vector embeddings for keyword tokens
+• Use Word2Vec to create vector embeddings for keyword tokens  
 • Logistic Regression:  
     - AUC Train (5-fold CV): 55.3%  
     - AUC Test: 55.2%  
