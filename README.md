@@ -15,7 +15,7 @@ This is the final project for our class "Machine Learning in Python". This proje
 
 ### II. Modeling Gender 
 
-• Peform 80/20 training and validation split
+• Peform 80/20 training and validation split. 
 • Scale data 
 
 #### A) Tf-Idf with Full Vocabulary
